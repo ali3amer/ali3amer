@@ -1,4 +1,5 @@
 # 💫 Hi, I am Ali Amir:
+ #### 💻 Software Engineer
 🔭 I’m currently working on Zakat Chamber<br>
 
 
