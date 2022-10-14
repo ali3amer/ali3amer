@@ -1,4 +1,4 @@
-# 💫 Hi, Iam Ali Amir:
+# 💫 Hi, I am Ali Amir:
 🔭 I’m currently working on Zakat Chamber<br>
 
 
